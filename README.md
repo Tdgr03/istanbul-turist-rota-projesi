@@ -54,8 +54,3 @@ Bu proje, İstanbul'daki turistik mekanlara daha kolay ve verimli ulaşım sağl
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için LICENSE dosyasına bakınız.
-
-## İletişim
-
-- [Twitter](https://twitter.com/username)
-- [Email](mailto:your.email@example.com)
